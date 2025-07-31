@@ -1,2 +1,2 @@
 # Macaco-Narigudo
-Criei este site sobreo macaco-narigudo durante uma aula em meu curso. Ele contém parte das informações já contidas na Wikipédia, porém com estilização e alguns conteúdos adicionais
+Criei este site durante uma aula em meu curso. Ele contém parte das informações já contidas na Wikipédia sobre o macaco-narigudo, um animal bastante engraçado. Além das informações adicionei estilização utilizando CSS e alguns conteúdos adicionais com HTML.
